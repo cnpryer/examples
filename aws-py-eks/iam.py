@@ -1,4 +1,4 @@
-from pulumi_aws import config, iam
+from pulumi_aws import iam
 import json
 
 ## EKS Cluster Role
